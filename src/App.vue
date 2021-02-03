@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="div1">{{txt}}</div>
+    <div class="div1">{{txt}} qklwejklqjwr</div>
     <img src="../assets/design.png" alt="png">
   </div>
 </template>
