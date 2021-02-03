@@ -1,0 +1,19 @@
+{
+  "name": "build-vue-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ljp10086/build-vue-manually.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ljp10086/build-vue-manually/issues"
+  },
+  "homepage": "https://github.com/Ljp10086/build-vue-manually#readme"
+}
